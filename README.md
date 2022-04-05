@@ -4,7 +4,7 @@ Notes entered into the time blocks can be saved and recalled on a page refresh, 
 
 Links:
     Github: https://github.com/coreylevine2000/hw-5-APIs-Work-Scheduler
-    Live:
+    Live: https://coreylevine2000.github.io/hw-5-APIs-Work-Scheduler/
 
 Photos:
     ![plot](./images/Header%20Time.PNG)
