@@ -1,2 +1,4 @@
-var weekDay = moment("1-1-2022", "M-D-YYYY").format("ddd MMM Do, YYYY");
-$("#currentDay").text(weekDay);
+// Display today's day and date
+var todayDate = moment().format('dddd, MMM Do YYYY');
+$("#currentDay").html(todayDate);
+
